@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/duncanpersonalpage/static/css/main.f3fe6f6c.css",
+    "main.js": "/duncanpersonalpage/static/js/main.8c2addf4.js",
+    "static/js/453.a040a4d3.chunk.js": "/duncanpersonalpage/static/js/453.a040a4d3.chunk.js",
+    "index.html": "/duncanpersonalpage/index.html",
+    "main.f3fe6f6c.css.map": "/duncanpersonalpage/static/css/main.f3fe6f6c.css.map",
+    "main.8c2addf4.js.map": "/duncanpersonalpage/static/js/main.8c2addf4.js.map",
+    "453.a040a4d3.chunk.js.map": "/duncanpersonalpage/static/js/453.a040a4d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3fe6f6c.css",
+    "static/js/main.8c2addf4.js"
+  ]
+}
